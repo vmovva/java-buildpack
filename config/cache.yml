@@ -16,7 +16,7 @@
 # Download cache configuration
 ---
 remote_downloads: enabled
-client_authentication: test
-  certificate_location: test
-  private_key_location: test
-  private_key_password: test
+client_authentication: 
+  certificate_location: 
+  private_key_location: 
+  private_key_password: 
