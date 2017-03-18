@@ -48,7 +48,7 @@ frameworks:
  # - "JavaBuildpack::Framework::LunaSecurityProvider"
  # - "JavaBuildpack::Framework::DyadicEkmSecurityProvider"
   - "JavaBuildpack::Framework::MariaDbJDBC"
-  - "JavaBuildpack::Framework::NewRelicAgent"
+  #- "JavaBuildpack::Framework::NewRelicAgent"
   - "JavaBuildpack::Framework::PlayFrameworkAutoReconfiguration"
   - "JavaBuildpack::Framework::PlayFrameworkJPAPlugin"
   - "JavaBuildpack::Framework::PostgresqlJDBC"
