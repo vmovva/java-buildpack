@@ -54,6 +54,6 @@ frameworks:
 #  - "JavaBuildpack::Framework::PostgresqlJDBC"
  # - "JavaBuildpack::Framework::ProtectAppSecurityProvider"
   - "JavaBuildpack::Framework::SpringAutoReconfiguration"
-  - "JavaBuildpack::Framework::SpringInsight"
+ # - "JavaBuildpack::Framework::SpringInsight"
   - "JavaBuildpack::Framework::YourKitProfiler"
   - "JavaBuildpack::Framework::JavaOpts"
