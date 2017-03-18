@@ -17,4 +17,4 @@
 ---
 version: 6.3.0_+
 repository_root: http://downloads.dynatracesaas.com/cloudfoundry/buildpack/java
-default_agent_name: 
+default_agent_name: defaultagent
